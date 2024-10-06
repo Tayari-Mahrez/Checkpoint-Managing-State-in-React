@@ -1,0 +1,124 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "completed": false,
+      "dueDate": "2024-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Finish project report",
+      "completed": false,
+      "dueDate": "2024-10-10"
+    },
+    {
+      "id": 3,
+      "title": "Call mom",
+      "completed": true,
+      "dueDate": "2024-09-30"
+    },
+    {
+      "id": 4,
+      "title": "Schedule dentist appointment",
+      "completed": false,
+      "dueDate": "2024-10-15"
+    },
+    {
+      "id": 5,
+      "title": "Submit tax documents",
+      "completed": false,
+      "dueDate": "2024-10-20"
+    },
+    {
+      "id": 6,
+      "title": "Prepare presentation for meeting",
+      "completed": false,
+      "dueDate": "2024-10-05"
+    },
+    {
+      "id": 7,
+      "title": "Read one chapter of the book",
+      "completed": true,
+      "dueDate": "2024-10-01"
+    },
+    {
+      "id": 8,
+      "title": "Exercise for 30 minutes",
+      "completed": false,
+      "dueDate": "2024-10-08"
+    },
+    {
+      "id": 9,
+      "title": "Clean the house",
+      "completed": false,
+      "dueDate": "2024-10-12"
+    },
+    {
+      "id": 10,
+      "title": "Walk the dog",
+      "completed": true,
+      "dueDate": "2024-10-03"
+    },
+    {
+      "id": 11,
+      "title": "Plan weekend trip",
+      "completed": false,
+      "dueDate": "2024-10-14"
+    },
+    {
+      "id": 12,
+      "title": "Buy birthday gift for friend",
+      "completed": false,
+      "dueDate": "2024-10-09"
+    },
+    {
+      "id": 13,
+      "title": "Update resume",
+      "completed": false,
+      "dueDate": "2024-10-16"
+    },
+    {
+      "id": 14,
+      "title": "Attend yoga class",
+      "completed": false,
+      "dueDate": "2024-10-06"
+    },
+    {
+      "id": 15,
+      "title": "Finish online course",
+      "completed": false,
+      "dueDate": "2024-10-25"
+    },
+    {
+      "id": 16,
+      "title": "Organize desk",
+      "completed": false,
+      "dueDate": "2024-10-11"
+    },
+    {
+      "id": 17,
+      "title": "Make dinner reservations",
+      "completed": false,
+      "dueDate": "2024-10-13"
+    },
+    {
+      "id": 18,
+      "title": "Water the plants",
+      "completed": true,
+      "dueDate": "2024-10-02"
+    },
+    {
+      "id": 19,
+      "title": "Buy a new laptop",
+      "completed": false,
+      "dueDate": "2024-10-30"
+    },
+    {
+      "id": 20,
+      "title": "Prepare for job interview",
+      "completed": false,
+      "dueDate": "2024-10-17"
+    }
+  ]
+}
